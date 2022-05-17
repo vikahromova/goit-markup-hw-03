@@ -1,0 +1,110 @@
+.banner {
+  background: #2f303a;
+  padding: 200px 0;
+  text-align: center;
+}
+
+.banner-title {
+  color: #ffffff;
+  text-align: center;
+  margin: 0 auto;
+  text-transform: uppercase; /*велика літера*/
+}
+
+.banner-button {
+  color: #fff;
+  background: #2196f3;
+  border: 0;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.875;
+  letter-spacing: 0.06em;
+  padding: 10px 32px;
+  margin-top: 40px;
+}
+
+.banner-button:hover {
+}
+
+.work {
+  margin: 94px;
+}
+
+.benefits-item {
+  letter-spacing: 0.03em;
+  list-style-type: none; /*видалення маркера*/
+}
+.benefits-title {
+  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 1.14;
+}
+
+.benefits-list {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  padding: 0;
+  margin: 93px 0 0 0;
+}
+
+.text-description {
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.product-title {
+  text-align: center;
+  font-size: 36px;
+  line-height: 42px;
+  letter-spacing: 0.03em;
+}
+
+.product-list {
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  gap: 30px; /* відстань між елементами*/
+}
+
+.team-wrap {
+  background-color: #f5f4fa;
+}
+
+.team {
+  padding: 94px 0;
+}
+.team-title {
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.team-item {
+  list-style-type: none;
+}
+
+.team-list {
+  display: flex;
+  gap: 30px;
+  padding: 0;
+}
+
+.team-item-title {
+  color: #212121;
+  font-size: 16px;
+  line-height: 1.187;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.team-item-description {
+  color: #757575;
+  font-size: 16px;
+  line-height: 1.187;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
