@@ -41,16 +41,15 @@
 
 .projects {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
-  margin-bottom: 57px;
+  margin-bottom: -30px;
+  margin-left: -30px;
 }
 
 .projects-item {
-  margin-bottom: 33px;
+  margin-bottom: 30px;
+  margin-left: 30px;
 }
 
 .projects-link {
